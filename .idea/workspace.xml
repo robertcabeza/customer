@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0bfc89d5-ef94-43c3-bcae-cbbc2ecc5dfe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/communicalia-20240214.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/communicalia-20240215.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mailteck/communicalia/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mailteck/communicalia/logics/ComunicationLogics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mailteck/communicalia/logics/ContactLogics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mailteck/communicalia/logics/DashboardLogics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mailteck/communicalia/logics/LoginLogics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mailteck/communicalia/properties/Properties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mailteck/communicalia/properties/PropertiesReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mailteck/communicalia/tests/ComunicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mailteck/communicalia/tests/ContactTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mailteck/communicalia/tests/DashboardTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mailteck/communicalia/util/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/prod.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mailteck/communicalia/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2bxB18ouoRIyrJcOqJjjAC8medL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.App.executor": "Run",
+    "Application.Properties.executor": "Run",
+    "Application.Test.executor": "Run",
+    "JUnit.All in Communicalia (1).executor": "Run",
+    "JUnit.All in Communicalia (2).executor": "Run",
+    "JUnit.All in Communicalia (3).executor": "Run",
+    "JUnit.All in Communicalia (4).executor": "Run",
+    "JUnit.All in Communicalia (5).executor": "Run",
+    "JUnit.All in Communicalia.executor": "Run",
+    "JUnit.CommunicaliaLogin.executor": "Run",
+    "JUnit.CommunicaliaLogin.login.executor": "Run",
+    "JUnit.CommunicaliaLoginTest.login.executor": "Run",
+    "JUnit.CommunicaliaTest.executor": "Run",
+    "JUnit.CommunicaliaTest.login.executor": "Run",
+    "JUnit.CommunicaliaTest.testAll.executor": "Debug",
+    "JUnit.CommunicaliaTest.testCampana.executor": "Run",
+    "JUnit.CommunicaliaTest.testGooglePage.executor": "Run",
+    "JUnit.ComunicationTests.executor": "Run",
+    "JUnit.ContactTests.executor": "Run",
+    "JUnit.ContactTests.testCampana.executor": "Run",
+    "JUnit.DashboardTests.executor": "Run",
+    "JUnit.OtroTest.executor": "Run",
+    "JUnit.OtroTest.testAll.executor": "Debug",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/robert/IdeaProjects/Nueva carpeta/Communicalia",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "promo.profiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\robert\IdeaProjects\Communicalia\src\main\java\com\mailteck\properties" />
+      <recent name="C:\Users\robert\IdeaProjects\Communicalia\src\main\resources" />
+      <recent name="C:\Users\acparadas\IdeaProjects\Communicalia\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\acparadas\IdeaProjects\Communicalia\src\main\resources\chromedriver" />
+      <recent name="C:\Users\acparadas\IdeaProjects\Communicalia\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mailteck.communicalia.logics" />
+      <recent name="com.mailteck.communicalia.tests" />
+      <recent name="com.mailteck.logics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DashboardTests">
+    <configuration name="All in Communicalia" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Communicalia" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComunicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Communicalia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mailteck.communicalia.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mailteck.communicalia.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.mailteck.communicalia.tests.ComunicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Communicalia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mailteck.communicalia.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mailteck.communicalia.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.mailteck.communicalia.tests.ContactTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactTests.testCampana" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Communicalia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mailteck.communicalia.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mailteck.communicalia.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.mailteck.communicalia.tests.ContactTests" />
+      <option name="METHOD_NAME" value="testCampana" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DashboardTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Communicalia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mailteck.communicalia.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mailteck.communicalia.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.mailteck.communicalia.tests.DashboardTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ComunicationTests" />
+      <item itemvalue="JUnit.ContactTests" />
+      <item itemvalue="JUnit.ContactTests.testCampana" />
+      <item itemvalue="JUnit.DashboardTests" />
+      <item itemvalue="JUnit.All in Communicalia" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DashboardTests" />
+        <item itemvalue="JUnit.All in Communicalia" />
+        <item itemvalue="JUnit.ComunicationTests" />
+        <item itemvalue="JUnit.ContactTests" />
+        <item itemvalue="JUnit.ContactTests.testCampana" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bfc89d5-ef94-43c3-bcae-cbbc2ecc5dfe" name="Changes" comment="" />
+      <created>1707146632700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707146632700</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mailteck/communicalia/App.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mailteck/communicalia/tests/ComunicationTests.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mailteck/communicalia/util/Base.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mailteck/communicalia/util/Base.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mailteck/communicalia/tests/ComunicationTests.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mailteck/communicalia/logics/ComunicationLogics.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mailteck/communicalia/tests/ComunicationTests.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mailteck/communicalia/tests/ComunicationTests.java</url>
+          <line>77</line>
+          <properties class="com.mailteck.communicalia.tests.ComunicationTests">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
